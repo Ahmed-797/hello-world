@@ -1,2 +1,2 @@
 # hello-world
-Basic Hello World Program
+My first git repo :)
